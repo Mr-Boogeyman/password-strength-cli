@@ -16,6 +16,6 @@ This is a Python-based command-line tool that evaluates the strength of a passwo
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/password-strength-cli.git
+git clone https://github.com/MR-Boogeyman/password-strength-cli.git
 cd password-strength-cli
 pip install .

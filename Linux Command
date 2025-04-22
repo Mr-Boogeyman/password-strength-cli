@@ -1,0 +1,8 @@
+git clone https://github.com/MR-Boogeyman/password-strength-cli.git
+cd password-strength-cli
+ls
+./password_strength_cli.py
+password_strength_cli.py 12345
+.
+.
+password_strength_cli.py YOURPASSWORD

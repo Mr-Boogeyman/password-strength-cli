@@ -1,0 +1,4 @@
+password-strength-cli/
+├── password_strength.py
+├── README.md
+├── setup.py
